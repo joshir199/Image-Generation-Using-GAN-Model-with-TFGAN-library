@@ -3,6 +3,8 @@ Understanding and Implementing Generative Adversarial Networks (GAN) on MNIST da
 
 -> GAN composed of Generator network and Discriminator network.
 
+-> It's a powerful framework for training two neural networks to compete against each other in order to generate realistic data.
+
 ****************************************
 # Generator model architecture :
 
